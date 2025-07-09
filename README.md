@@ -1,5 +1,3 @@
-# eagleeye-uomi-agent
-AI agent built on UOMI chain for exploring crypto news and market trends.
 # 🦅 EagleEye – UOMI AI Agent
 
 EagleEye is an AI agent built on the [UOMI Chain](https://uomi.ai) that simulates a real-time crypto news analyst.  
